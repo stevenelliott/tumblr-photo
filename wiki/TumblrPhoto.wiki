@@ -1,1 +1,19 @@
-w
+==その他==
+
+ * ダウンロードには、Tumblrが発行するAPIキーが必要です。(特に入力項目もなく15秒ほどで取得できます。)
+ * TumblrPhotoは、Tumblrに保存されている画像をダウンロードします。
+ * C#版はJava版で実装されていた、画像の重複チェック、拡張子フィルタなどが実装されていません。
+ * Tumblrから蹴られないようにするため、ダウンロードは調整して有ります。
+
+==謝辞==
+
+ * TumblrPhotoは、[http://dynamicjson.codeplex.com/ DynamicJson]を使用させていただいてます。
+
+==Java版==
+
+ * [http://code.google.com/p/tumblr-photo/wiki/tumblr_photo_java Java版]
+
+==既知の障害==
+
+ # (0.1.0.0)複数画像のポストが有る場合ダウンロードリスト生成に失敗する。
+ # (0.1.0.0)画像が404の場合にダウンロードが中断される。
