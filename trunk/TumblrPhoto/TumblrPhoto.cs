@@ -210,6 +210,11 @@ namespace TumblrPhoto
 
             wkFbd.RootFolder = Environment.SpecialFolder.Desktop;
 
+            if (Directory.Exists(txtFolder.Text))
+            {
+                wkFbd.SelectedPath = txtFolder.Text;                
+            }
+
             if (wkFbd.ShowDialog(this) == DialogResult.OK) txtFolder.Text = wkFbd.SelectedPath;
         }
 
