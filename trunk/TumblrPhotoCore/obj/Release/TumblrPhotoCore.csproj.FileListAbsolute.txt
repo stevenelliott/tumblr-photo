@@ -1,0 +1,6 @@
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\bin\Release\TumblrPhotoCore.dll
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\bin\Release\TumblrPhotoCore.pdb
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\bin\Release\DynamicJson.dll
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\obj\Release\TumblrPhotoCore.dll
+C:\Documents and Settings\susu\My Documents\Visual Studio 2010\Projects\TumblrPhoto\TumblrPhotoCore\obj\Release\TumblrPhotoCore.pdb
